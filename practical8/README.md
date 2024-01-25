@@ -1,10 +1,10 @@
-###Author
+### Author
 
 b8005896  // source code for MMB8052 Bioinformatics Lab Report
 25/01/2023
 
 
-###Process
+### Process
 
 This continuous script contains the entire workflow process of Practical 8. Specific sections include:
 
@@ -16,7 +16,7 @@ This continuous script contains the entire workflow process of Practical 8. Spec
 - Annotation
 
 
-###Data
+### Data
 
 Important information about the dataset : https://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116583/soft/GSE116583_family.soft.gz
 
@@ -25,7 +25,7 @@ Sample table (.csv) data : https://raw.githubusercontent.com/sjcockell/mmb8052/m
 Download count (quant.sf) data: https://github.com/sjcockell/mmb8052/raw/main/practicals/practical_08/results/counts.z
 
 
-###Software
+### Software
 
 FASTQ data were downloaded and imported (October 2022) with sra-tools (fastq-dump v2.8.0).
 
